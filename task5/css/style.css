@@ -1,0 +1,23 @@
+.input {
+    margin-top: 10px;
+    border-radius: 5%;
+    border-color: rgb(8, 8, 15);
+}
+
+.btn-query {
+    margin-top: 20px;
+    color: rgb(8, 1, 1);
+}
+
+.btn-query:hover {
+    color: rgb(15, 10, 10);
+}
+
+.image {
+    margin: 15px auto;
+}
+
+.image-card {
+    width: 300px;
+    height: 150px;
+}

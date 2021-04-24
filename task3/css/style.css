@@ -1,0 +1,23 @@
+.input-number {
+    margin-top: 10px;
+    border-radius: 5%;
+    border-color: darkblue;
+}
+
+.btn-search {
+    margin-top: 20px;
+    color: brown;
+}
+
+.btn-search:hover {
+    color: black;
+}
+
+.image {
+    margin: 15px auto;
+}
+
+.image-card {
+    width: 300px;
+    height: 150px;
+}
